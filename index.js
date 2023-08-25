@@ -1,8 +1,5 @@
 
-const functions = require("firebase-functions");
-const admin = require("firebase-admin");
-const { firestore } = require("firebase-admin");
-const { info } = require("firebase-functions/logger");
+
 
 
 const express = require('express')
